@@ -3,7 +3,7 @@
 ### DashGetNames uses the following dependencies:
   
 + Bootstrap
-+ Dash
++ Dash (You may need to 'npm install dash' to get latest working version)
 + React
 + localForage
 
