@@ -9,6 +9,10 @@
 
 You can verify in the package.json file
 
+#### Additional Requirements
+
++ Dash Testnet Platform must be operational, [https://dash-testnet.freshstatus.io/](https://dash-testnet.freshstatus.io/)
+
 ## Install
 
 + Ensure you have node 16 installed, node 18 will not work.
